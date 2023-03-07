@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 Kushnerov
 Maksyutenko
+=======
+Denys Maksyutenko
+>>>>>>> Stashed changes
