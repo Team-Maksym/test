@@ -1,10 +1,2 @@
-<<<<<<< HEAD
 Serhii Kushnerov
 Stetsenko Kateryna
-
-
-=======
-<<<<<<< HEAD
-Kushnerov Serhii!
->>>>>>> 5585d63dc183a2ed19490f9b9712d7027e38eadd
->>>>>>> fdebcd962f1ad581d034ae2fa32e5aae10c3cb79
